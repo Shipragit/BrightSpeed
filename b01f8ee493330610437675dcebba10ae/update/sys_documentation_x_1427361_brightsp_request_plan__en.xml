@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Request plan" language="en" table="x_1427361_brightsp_request_plan">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Request plan</label>
+            <language>en</language>
+            <name>x_1427361_brightsp_request_plan</name>
+            <plural>Request plans</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 14:06:27</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Request plan</sys_name>
+            <sys_package display_value="Brightspeed" source="x_1427361_brightsp">b01f8ee493330610437675dcebba10ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Brightspeed">b01f8ee493330610437675dcebba10ae</sys_scope>
+            <sys_update_name>sys_documentation_x_1427361_brightsp_request_plan__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 14:06:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
