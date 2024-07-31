@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="475f466893330610437675dcebba1069" label="Request plan" max_length="40" name="x_1427361_brightsp_request_plan" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested by" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="3 month" label="Plan" max_length="40" name="u_string_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 4" sequence="3" value="A year"/>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="3 month"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="6 month"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="9 month"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Comment" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Request" max_length="40" name="request" type="string"/>
+    </element>
+</database>
