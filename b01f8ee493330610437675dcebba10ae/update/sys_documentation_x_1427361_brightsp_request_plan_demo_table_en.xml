@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_string_3" label="Comment" language="en" table="x_1427361_brightsp_request_plan">
+    <sys_documentation element="demo_table" label="Demo Table" language="en" table="x_1427361_brightsp_request_plan">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_string_3</element>
+            <element>demo_table</element>
             <help/>
             <hint/>
-            <label>Comment</label>
+            <label>Demo Table</label>
             <language>en</language>
             <name>x_1427361_brightsp_request_plan</name>
-            <plural>Comments</plural>
+            <plural>Demo Tables</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 14:11:17</sys_created_on>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Comment</sys_name>
+            <sys_created_on>2024-08-01 09:37:27</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Demo Table</sys_name>
             <sys_package display_value="Brightspeed" source="x_1427361_brightsp">b01f8ee493330610437675dcebba10ae</sys_package>
             <sys_policy/>
             <sys_scope display_value="Brightspeed">b01f8ee493330610437675dcebba10ae</sys_scope>
-            <sys_update_name>sys_documentation_x_1427361_brightsp_request_plan_u_string_3_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1427361_brightsp_request_plan_demo_table_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-08-01 09:39:42</sys_updated_on>
+            <sys_updated_on>2024-08-01 09:37:27</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

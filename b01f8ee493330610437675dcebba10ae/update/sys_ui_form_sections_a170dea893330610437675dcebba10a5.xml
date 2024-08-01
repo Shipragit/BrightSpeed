@@ -17,16 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 14:11:16</sys_created_on>
+            <sys_created_on>2024-08-01 09:39:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>357012e893330610437675dcebba1025</sys_id>
+            <sys_id>29eb1a3093770210437675dcebba104f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1427361_brightsp_request_plan" name="x_1427361_brightsp_request_plan" sys_domain="global" view="Default view">a170dea893330610437675dcebba10a5</sys_ui_form>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1427361_brightsp_request_plan" sys_domain="global" view="Default view">6170dea893330610437675dcebba10a4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 14:11:16</sys_updated_on>
+            <sys_updated_on>2024-08-01 09:39:42</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1427361_brightsp_request_plan</name>
